@@ -5,15 +5,17 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Permanent Marker', cursive;
-    color: #f4f4f4;
+        font-family: "Anton SC", sans-serif;
+        font-weight: normal;
+        font-style: normal;
+    color: #f09862;
     margin-top: 0;
     margin-bottom: 0.5em;
 }
 
 /* Base Styles for Paragraphs */
 p {
-    font-family: 'Patrick Hand', cursive;
+    font-family: "DM Sans", sans-serif;
     color: #f4f4f4;
     font-size: 1rem;
     line-height: 1.6;
@@ -39,20 +41,19 @@ p {
 
 .nav a {
     text-decoration: none;
-    color: #f4f4f4;
-    font-family: 'Patrick Hand', cursive;
+    color: #f9f6f6;
+    font-family: "DM Sans", sans-serif;
 }
 
 /* Page Background */
 body {
-    background-color: #2d2d2d;
-    color: #f4f4f4;
-    font-family: 'Patrick Hand', cursive;
+    background-color: #5e5a5a;
+    color: #fffafa;
     margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center
 }
 
 header,
@@ -63,9 +64,9 @@ footer {
 }
 
 header h1 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Anton SC", sans-serif;
     font-size: 2.5rem;
-    color: #f4f4f4;
+    color: #fac2a0;
 }
 
 main {
@@ -109,8 +110,8 @@ main {
 }
 
 .card h3 {
-    color: #e21;
-    font-family: 'Permanent Marker', cursive;
+    color: #fac2a0;
+    font-family: "Anton SC", sans-serif;
 }
 
 .card-number,
